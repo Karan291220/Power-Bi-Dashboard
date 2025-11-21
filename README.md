@@ -35,3 +35,4 @@ Enhanced proficiency in chosen data visualization tools
 
 ![image_alt](https://github.com/Karan291220/Power-Bi-Dashboard/blob/6db774d68ec2c160540a0d7e9007cd41df2b78e0/images/second.png)
 ![image_alt](https://github.com/Karan291220/Power-Bi-Dashboard/blob/5c9ec1b1b1957eb1df85dacbbe28dd1783d5c165/images/third.png)
+![image_alt](https://github.com/Karan291220/Power-Bi-Dashboard/blob/main/images/group.png?raw=true)
